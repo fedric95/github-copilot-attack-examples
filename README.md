@@ -2,13 +2,19 @@
 
 ## Data Exfiltration
 
-### Assumptions:
+### Video Demonstration
+
+
+
+### Step-by-step
+
+#### Assumptions:
 
 - The victim has a private and a public repository
 - The attacker knows the name of your private repository
 - The attacker can open an issue to the public repository
 
-### Steps
+#### Steps
 
 1. The victim has a private repository named Repository1 and a public one named PublicRepository.
 
