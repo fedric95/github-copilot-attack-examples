@@ -2,6 +2,9 @@
 
 ## Data Exfiltration
 
+This attack is inspired by the method described by Simon Willinson: https://simonwillison.net/2025/May/26/github-mcp-exploited/, and originally discovered by Marco Milanta and Luca Beurer-Kellner.
+In Github Copilot is seems not possible to list all the private repository of the user. But it is still possible to obtain information from them if you know their names.
+
 ### Video Demonstration
 
 [Video](https://github.com/fedric95/github-copilot-example/blob/main/data_exfiltration.mp4)
