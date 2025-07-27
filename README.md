@@ -4,7 +4,7 @@
 
 ### Video Demonstration
 
-
+[Video](https://github.com/fedric95/github-copilot-example/blob/main/data_exfiltration.mp4)
 
 ### Step-by-step
 
