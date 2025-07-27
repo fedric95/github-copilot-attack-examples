@@ -1,4 +1,4 @@
-# github-copilot-example
+# github-copilot-attack-examples
 
 ## System Prompt Leakage
 
